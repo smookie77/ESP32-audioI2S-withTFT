@@ -26,8 +26,8 @@ Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 Audio audio;
 
-String ssid =     "242.wifi.smooker.org";
-String password = "tplinkmotorola12";
+String ssid =     "";
+String password = "";
 
 void setup() {
     // pinMode(SD_CS, OUTPUT);      digitalWrite(SD_CS, HIGH);
